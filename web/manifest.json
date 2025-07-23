@@ -1,6 +1,6 @@
 {
-    "name": "swapspot",
-    "short_name": "swapspot",
+    "name": "swapspot_v1",
+    "short_name": "swapspot_v1",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

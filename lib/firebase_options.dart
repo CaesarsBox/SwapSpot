@@ -41,46 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyB_Mvpky7QT7MF7Q5dsX9fo3MaQ0L2ERCQ',
-    appId: '1:692402083154:web:6425d24feff3d5ce07d68b',
-    messagingSenderId: '692402083154',
-    projectId: 'swapspot-5a89c',
-    authDomain: 'swapspot-5a89c.firebaseapp.com',
-    storageBucket: 'swapspot-5a89c.firebasestorage.app',
+    apiKey: 'AIzaSyC2Palk7kLEiyElYkgnke0o9wuvyDgiz2A',
+    appId: '1:566237138164:web:96eb5f337937e39396e2a1',
+    messagingSenderId: '566237138164',
+    projectId: 'swapspot-8f99d',
+    authDomain: 'swapspot-8f99d.firebaseapp.com',
+    storageBucket: 'swapspot-8f99d.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCrZv00X_pMcT8imPUWwf83hLVVH2DImy8',
-    appId: '1:692402083154:android:d9067f0bbda6f99307d68b',
-    messagingSenderId: '692402083154',
-    projectId: 'swapspot-5a89c',
-    storageBucket: 'swapspot-5a89c.firebasestorage.app',
+    apiKey: 'AIzaSyA83ux9xR7Cji5vKE0zMmzsOJeQynivOAc',
+    appId: '1:566237138164:android:403e33f1e030939b96e2a1',
+    messagingSenderId: '566237138164',
+    projectId: 'swapspot-8f99d',
+    storageBucket: 'swapspot-8f99d.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAGBZ4cGZMb_r3Cq68ebm5n96yBZGMdf0k',
-    appId: '1:692402083154:ios:3091ee657fe2acc107d68b',
-    messagingSenderId: '692402083154',
-    projectId: 'swapspot-5a89c',
-    storageBucket: 'swapspot-5a89c.firebasestorage.app',
+    apiKey: 'AIzaSyAZO-8hEzJmZB6SufAmNZ2bYHNQNW2o45E',
+    appId: '1:566237138164:ios:12290be466bf862b96e2a1',
+    messagingSenderId: '566237138164',
+    projectId: 'swapspot-8f99d',
+    storageBucket: 'swapspot-8f99d.firebasestorage.app',
     iosBundleId: 'com.example.swapspot',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAGBZ4cGZMb_r3Cq68ebm5n96yBZGMdf0k',
-    appId: '1:692402083154:ios:3091ee657fe2acc107d68b',
-    messagingSenderId: '692402083154',
-    projectId: 'swapspot-5a89c',
-    storageBucket: 'swapspot-5a89c.firebasestorage.app',
+    apiKey: 'AIzaSyAZO-8hEzJmZB6SufAmNZ2bYHNQNW2o45E',
+    appId: '1:566237138164:ios:12290be466bf862b96e2a1',
+    messagingSenderId: '566237138164',
+    projectId: 'swapspot-8f99d',
+    storageBucket: 'swapspot-8f99d.firebasestorage.app',
     iosBundleId: 'com.example.swapspot',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyB_Mvpky7QT7MF7Q5dsX9fo3MaQ0L2ERCQ',
-    appId: '1:692402083154:web:276859dd6753417f07d68b',
-    messagingSenderId: '692402083154',
-    projectId: 'swapspot-5a89c',
-    authDomain: 'swapspot-5a89c.firebaseapp.com',
-    storageBucket: 'swapspot-5a89c.firebasestorage.app',
+    apiKey: 'AIzaSyC2Palk7kLEiyElYkgnke0o9wuvyDgiz2A',
+    appId: '1:566237138164:web:442e959896a9a5d596e2a1',
+    messagingSenderId: '566237138164',
+    projectId: 'swapspot-8f99d',
+    authDomain: 'swapspot-8f99d.firebaseapp.com',
+    storageBucket: 'swapspot-8f99d.firebasestorage.app',
   );
+
 }

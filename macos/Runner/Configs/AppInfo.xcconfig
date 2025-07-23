@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = swapspot
+PRODUCT_NAME = swapspot_v1
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.swapspot
+PRODUCT_BUNDLE_IDENTIFIER = com.example.swapspotV1
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
